@@ -1,5 +1,7 @@
 # Hey! Welcome to mi Github :octocat: :sparkles:
 
+![Portada con logo personal](/img/peletay.png)
+
 ## About me :woman:
 
 Hi ! My name is Milena Peletay, I live in Argentina, and I'm a student of the Technical Degree in _Software Development_, and the Technical Degree in _Web Development and Digital Applications_.
