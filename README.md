@@ -5,7 +5,7 @@
 ---
   <div align="center"><img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=500&lines=Python+enthusiast;Future+backend+developer">
   
-  <img width="20%"  alt="thinking" src="/img/idea.gif"></div>  
+  <img width="35%"  alt="thinking" src="/img/idea.gif"></div>  
   
 >**What with a lot of work is acquired, more is loved.**  
   
@@ -15,13 +15,17 @@ Hi ! :wave: My name is Milena Peletay, I live in Argentina, and I'm a student of
 
 ## Technologies I learning :computer:
 
-  <div align="center"><img width="20%" alt="cool" src="/img/cool.gif">
+  <div align="center"><img width="35%" alt="cool" src="/img/cool.gif">
   
   ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&logoColor=white)
   ![Flask](https://img.shields.io/badge/-Flask-red?style=flat-square&logo=flask&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white)  
+  ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=white)
+  ![Spring](https://img.shields.io/badge/-Spring-green?style=flat-square&logo=spring&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-green?style=flat-square&logo=springboot&logoColor=white)  
   ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)</div>  
+  ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)</div>  
   
 ~~~
 arsenal_to_study = ["mate","cookie","coffee","alfajor"]
@@ -32,7 +36,7 @@ if "mate" and "alfajor" in arsenal_to_study:
 
 ## Contacts :love_letter:  
 
-  <div align="center"><img width="20%" alt="love" src="/img/love.gif">
+  <div align="center"><img width="35%" alt="love" src="/img/love.gif">
   
   [![Linkedin Badge](https://img.shields.io/badge/-Milena_Abigail_Peletay-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milena-abigail-peletay/)](https://www.linkedin.com/in/milena-abigail-peletay/)
   [![Gmail Badge](https://img.shields.io/badge/-milepeletaymartinez-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:milepeletaymartinez@gmail.com)](mailto:milepeletaymartinez@gmail.com)</div>
