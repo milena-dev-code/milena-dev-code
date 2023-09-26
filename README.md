@@ -18,11 +18,8 @@ Hi ! :wave: My name is Milena Peletay, I live in Argentina, and I'm a student of
   <div align="center"><img width="35%" alt="cool" src="/img/cool.gif">
   
   ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&logoColor=white)
-  ![Flask](https://img.shields.io/badge/-Flask-red?style=flat-square&logo=flask&logoColor=white)
   ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white)  
   ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=white)
-  ![Spring](https://img.shields.io/badge/-Spring-green?style=flat-square&logo=spring&logoColor=white)
-  ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-green?style=flat-square&logo=springboot&logoColor=white)  
   ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)</div>  
