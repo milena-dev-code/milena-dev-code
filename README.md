@@ -9,7 +9,7 @@
   
 >**What with a lot of work is acquired, more is loved.**  
   
-Hi ! :wave: My name is Milena Peletay, I live in Argentina, and I'm a student of the Technical Degree in _Software Development_, and the Technical Degree in _Web Development and Digital Applications_.
+Hi ! :wave: My name is Milena Peletay, I live in Argentina, and I studied for two years of Technical Degree in _Software Development_ , y I'm a student of University Analyst in Cyber ​​Risk Management.
 
 
 
